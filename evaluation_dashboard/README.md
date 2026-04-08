@@ -8,11 +8,6 @@
 
 The **Semantic Cache Analyzer** is the evaluation and research companion to the CacheLab RAG system. It lets you upload your own FAQ and query datasets, run experiments across different caching strategies and distance thresholds, and visualise the precision-recall trade-offs that inform production configuration.
 
-### Screenshot
-
-<!-- Replace the path below with your actual screenshot -->
-![Evaluation Dashboard](../docs/screenshots/evaluation_dashboard.png)
-
 ---
 
 ## Pages
